@@ -1,0 +1,29 @@
+body{
+    background-image: url(../../imgns/Sal/373\ Sem\ Título_20210409084735.png);
+   
+}
+h1{
+    background-color: rgb(17, 3, 3) ;
+    color:red;
+    position:relative;
+  text-align: center;
+  float:inline-end;
+
+font-family:  cursive;
+}
+
+p{
+    color: white;
+    background-color:rgba(0, 0, 0, 0.466) ;
+    padding-top: 8px;
+  margin-top: 0px;
+  margin: 0px;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Gloria Hallelujah', cursive;
+
+  font-size: 20px;
+  text-align:left;
+}
+h2{ font-family: cursive  ;
+text-align: center;}
+

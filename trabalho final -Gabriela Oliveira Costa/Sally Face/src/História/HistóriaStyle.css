@@ -1,0 +1,26 @@
+body{
+    background-image:url(../../imgns/Sal/sal.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+   background-position:center;
+   background-attachment:local;
+   font-family: 'Gloria Hallelujah', cursive;
+   font-family: 'Indie Flower', cursive;
+   text-align: center;
+}
+.corpo{
+    background-color:rgba(0, 0, 0, 0.63) ;
+    color: white;
+   
+}
+
+.alinharAoCentro{
+    display: flex;
+    justify-content: center;
+  }
+  p{
+      font-size: 23px;
+  }
+  h1{
+      font-family: cursive;
+  }

@@ -1,0 +1,47 @@
+body{
+    background-image:url(../../imgns/Sal/374\ Sem\ Título_20210409164821.png) ;
+}
+h1{
+    font-family:  cursive;
+}
+
+#tituloA{font-family:cursive;
+color: red;
+text-align: center;}
+
+p{font-family: 'Anton', sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Indie Flower', cursive;
+color: red;
+font-size: 24px;}
+.Alinharmusica{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: left;
+}
+#tituloA {
+text-align: center;
+float: center;
+    padding: 2px;
+    border: rgb(114, 10, 10) dotted;
+    height: 96px;
+    width: 860px;
+    }
+    
+    #tituloA{
+    
+    animation-name: example;
+    
+    animation-duration: 4s;
+    
+    animation-iteration-count: infinite;
+    
+    }
+    
+    @keyframes example {
+    
+    0% {  color:rgb(179, 12, 12) }    
+    50% {  color: rgb(0, 0, 0) }
+    15% {  color:rgb(77, 7, 7) }
+    }
